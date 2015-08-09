@@ -1,0 +1,12 @@
+* more objects (polygons)
+* texture mapping
+* anti-aliasing
+* implement alternate lighting method, the openGL one:
+    http://www.cs.unc.edu/~andrewz/comp236/hw5b/index.html
+* bug fix and audit
+* optimize (sphere intersection is a bottle-neck)
+* cut some stuff out of main: create a big init function
+* simple scene description format
+* ability to rotate camera, pick objects and move them
+    (maybe even add new ones?)
+

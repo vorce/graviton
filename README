@@ -1,0 +1,28 @@
+Graviton
+--------
+A small, basic raytracer written in, I hope, clear and clean
+C code.
+The most 'interesting' bits are in ray.c I guess :-)
+(No, don't expect anything revolutionary, it's just the standard
+half assed ray-tracing code)
+
+Please e-mail or catch me on irc and discuss/help me
+improve this.
+(skypher at linuxmail dot org)
+
+Controls:
+Mouse movement controls x,y of light[0]
+mouse wheel controlz light[0] z coordinate
+(fine tune with arrow keys + pageup/down)
+
+homepage: joel.vurm.net/graviton.html
+
+Would not exist without:
+* http://www.libsdl.org
+* http://www.cfxweb.net/~lyc/tomtrace.html
+* http://www.cfxweb.net/~cfxamir/tutorials.html
+* http://www.2tothex.com/raytracing/index.html
+* http://polygone.flipcode.com/
+* http://home.hccnet.nl/w.vdongen/Raytracer/History.html
+* http://lycium.cfxweb.net/
+
