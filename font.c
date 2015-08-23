@@ -66,7 +66,7 @@ font_print(SDL_Surface *to, SDL_Surface *font, int x, int y, char *format, ...)
         }
 
         /* ok. I've to do this crap because of the font file itself,
-            i pixeled it. and well..it's gay. */
+            i pixeled it. and well..it's bad. */
         if(ci=='.')
         {
             l.x=33*(LETTER_W+LETTER_SPACE);
